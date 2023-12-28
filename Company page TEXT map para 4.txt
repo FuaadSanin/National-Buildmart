@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Welcome to NATIONAL BUILDMART</title>
+     <style>
+         body {             background-color: #ffd700; /* Attractive yellow background color */
+             text-align: center;
+             padding: 20px;
+             background-image:linear-gradient(90deg,#ccc 1px,transparent 1px),
+                              linear-gradient(rgba(204,204,204,2)1px,transparent 1px);
+             background-size:20px 20px;                 
+         }
+          img {
+             max-width: 100%;
+             height: auto;
+             margin: 20px 0; 
+        }
+          .share-button {
+             background-color: #4285f4; /* Google blue color for the share button */
+             color: #fff;
+             padding: 10px 20px;
+             font-size: 16px;
+             text-decoration: none;
+             border-radius: 5px;
+         }
+     </style>
+ </head>
+ <body>
+     <h1>Welcome to NATIONAL BUILDMART</h1>
+          <img src="your-company-logo.jpg" alt="Company Logo">
+      <p>Follow this steps to win the prize...<br><br><br>
+STEP 1 : Share this image to your Whatsapp status<br>
+STEP 2 :Take a Screenshot of your views and send this to our Whatsapp no (79072927880)</p>
+      <a href="https://maps.app.goo.gl/BtXrHxw3bSJqvrJS8" class="share-button">Share</a>
+ </body>
+ </html>
